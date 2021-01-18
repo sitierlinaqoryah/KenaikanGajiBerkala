@@ -1,0 +1,6 @@
+LOGIN 
+username : kgbopd
+pass: kgb
+
+database diskominfo_kepegawaian.sql diganti menjadi diskominfotik
+ketika create new database dan sebelum import database

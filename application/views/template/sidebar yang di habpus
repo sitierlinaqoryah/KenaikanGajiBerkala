@@ -1,0 +1,7 @@
+sidebar yang di habpus
+
+<li class="nav-item">
+                                    <a href="<?php echo site_url('laporan'); ?>" target="_blank" class="nav-link">
+                                        <i class="icon icon-book-open"></i> Laporan
+                                    </a>
+                                </li>
